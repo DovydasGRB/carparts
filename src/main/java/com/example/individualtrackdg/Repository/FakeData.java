@@ -14,7 +14,7 @@ public class FakeData {
         MakeOfCar MakeModel1 = new MakeOfCar(1,"BMW");
         MakeOfCar MakeModel2 = new MakeOfCar(2,"Audi");
         MakeOfCar MakeModel3 = new MakeOfCar(3,"Mercedes Benz");
-        MakeOfCar MakeModel4 = new MakeOfCar(4,"Volkswagen");
+        MakeOfCar MakeModel4 = new MakeOfCar(4,"Hyundai");
         MakeOfCar MakeModel5 = new MakeOfCar(5,"Porsche");
         carMakeList.add(MakeModel1);
         carMakeList.add(MakeModel2);
